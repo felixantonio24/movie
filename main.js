@@ -1,0 +1,1 @@
+ const btnsiguiente = document.querySelector('btnsiguiente');git 
